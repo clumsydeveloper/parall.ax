@@ -1,5 +1,18 @@
 body {
-    font-family: "fontello", "monosapce", sans-serif;
+    font-family: 'fontello', 'Source Sans Pro', sans-serif;
     background-color: #3d374e;
     color: white;
 }
+
+#userEmail {
+    color: grey;
+}
+
+#sns ul.snsLogo li {
+    display: inline-block;
+}
+
+
+/* #sns ul.snsLogo li a {
+    display: none;
+} */
